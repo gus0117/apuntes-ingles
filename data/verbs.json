@@ -1,0 +1,18 @@
+{
+    "verbs":[
+        {
+            "id":0,
+            "inf":"be",
+            "ps":"was/were",
+            "pp":"been",
+            "es":"ser/estar"
+        },
+        {
+            "id":1,
+            "inf":"become",
+            "ps":"became",
+            "pp":"become",
+            "es":"convertirse en, hacerse"
+        }
+    ]
+}
